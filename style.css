@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#digital-clock {
+    font-family: 'DS-Digital', DS-DIGI; /* Use the name of the font file without the extension */
+    color: red;
+    font-size: 3em;
+    letter-spacing: 10px;
+}
